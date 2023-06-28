@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import ta
 import yfinance as yf
+import math
 
 # Acquire Market Data
 # Load historical market data into a pandas DataFrame
